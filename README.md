@@ -64,15 +64,13 @@ Backend: FastAPI + Python + XGBoost
 
 Database: Supabase
 
-👥 Team: THE HACKER'S
+👥 Team Members:
 
-Prakhar Singh (Leader)
-
-Rohit
-
+Prakhar Singh
+Samkit Jain
 Ashish Chouhan
-
-Suvathi C
+Gaurav Singh
+Tarun Dev Taliyan
 
 🏆 HackVerse 1.0 Project
 
